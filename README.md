@@ -71,7 +71,7 @@ For accessing the Django Notes App, open port **8000**:
 
 ## 5. Automate Build with Webhooks
 
-Refer to **Step 10** of the guide: 
+Refer to **Step 10** of the guide: [Node_Todo_App_Docker_Jenkins_FreeStyle](https://github.com/Abhishek-2502/Node_Todo_App_Docker_Jenkins_FreeStyle)
 
 ---
 
@@ -83,7 +83,7 @@ Push some changea in the code on Github and pipeline will automatically build th
 
 ## 7. Verifying the Deployment
 
-- Once the build is complete, the Django Notes App should be accessible at: [Node_Todo_App_Docker_Jenkins_FreeStyle](https://github.com/Abhishek-2502/Node_Todo_App_Docker_Jenkins_FreeStyle)
+- Once the build is complete, the Django Notes App should be accessible at: 
   
   ```
   http://your_public_ip:8000
