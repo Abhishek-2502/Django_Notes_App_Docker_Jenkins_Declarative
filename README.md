@@ -77,7 +77,7 @@ Refer to **Step 10** of the guide: [Node_Todo_App_Docker_Jenkins_FreeStyle](http
 
 ## 6. Running the Pipeline
 
-Push some changea in the code on Github and pipeline will automatically build the app.
+Push some changes in the code on Github and pipeline will automatically build the app.
 
 ---
 
